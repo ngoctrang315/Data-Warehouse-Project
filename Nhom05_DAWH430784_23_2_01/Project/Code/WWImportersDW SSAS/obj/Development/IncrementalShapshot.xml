@@ -1,0 +1,117 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>WWImportersDW SSAS</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>INuHjjiG2DWlhBTE/rJu9iPuJ3s=5/15/2024 6:19:31 PM5/15/2024 6:19:31 PM</TimeStamp>
+        <ID>
+          <String>WWImportersDW_SSAS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>j0dsE2SCzl322QrtHqp5Q9syTOE=5/15/2024 6:23:39 PM5/15/2024 6:19:53 PM</TimeStamp>
+        <ID>
+          <String>WWImportersDW_View</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>FTI/PAjudJhgh1tSeFhwgKqtBuA=5/15/2024 10:50:16 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>e6vTbr6KaPCZONOzxRpDgng1v+k=5/16/2024 12:11:34 AM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Dim Customer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>98cFjADqCi0hFLZOub+Y+nrg0gc=5/15/2024 10:36:35 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Dim City</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qejbgUxigBFK2XFYfbM/Mo3MIBM=5/15/2024 7:47:51 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Dim Stock Item</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>iYwZJjyvsO+vLwiGmSe0q8xx8rs=5/15/2024 6:27:50 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Dim Employee</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>lz1MukP1OaUg5jPtuallz3+7w3c=5/15/2024 6:20:50 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Fact Order</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>FOjb6dYlkeBFejld+LpteLf6DuA=5/15/2024 10:50:16 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Dim Supplier</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>S2nEtUm5Nq8WpjvkCNF6MIF9XeE=5/15/2024 6:20:50 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Fact Purchase</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>jnraL3YD8bT0YqYEuWgp6CJ4/j8=5/15/2024 6:20:51 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>Fact Sales</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>58a5+EWh6X9PXG14PK/tqVC32CU=5/16/2024 12:11:34 AM5/15/2024 6:20:50 PMpL6zKrBDBabcIuZ5nltg5mm8PTM=5/15/2024 6:20:50 PM5/15/2024 6:20:50 PM</TimeStamp>
+        <ID>
+          <String>WWImportersDW_View</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>lYiF7c3DDnC7dxn592IKZZQV3O8=5/15/2024 6:17:52 PM5/15/2024 6:17:51 PM</TimeStamp>
+      <ID>
+        <String>WWImportersDW SSAS</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-05-15T17:11:53.55Z</LastDeployed>
+</DeploymentSnapshot>

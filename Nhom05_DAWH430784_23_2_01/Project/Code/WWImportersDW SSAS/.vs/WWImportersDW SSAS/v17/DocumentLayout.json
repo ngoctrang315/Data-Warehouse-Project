@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\WWImportersDW_View.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:WWImportersDW_View.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim City.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Dim City.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\WWImportersDW_View.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:WWImportersDW_View.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Supplier.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Dim Supplier.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Fact Order.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Fact Order.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Stock Item.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Dim Stock Item.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}|WWImportersDW SSAS.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fact Order.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Fact Order.dim",
+              "RelativeDocumentMoniker": "Fact Order.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Fact Order.dim [Design]",
+              "RelativeToolTip": "Fact Order.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T15:39:36.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim City.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim City.dim",
+              "RelativeDocumentMoniker": "Dim City.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim City.dim [Design]",
+              "RelativeToolTip": "Dim City.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:31:17.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Stock Item.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Stock Item.dim",
+              "RelativeDocumentMoniker": "Dim Stock Item.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Stock Item.dim [Design]",
+              "RelativeToolTip": "Dim Stock Item.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:29:05.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Employee.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Employee.dim",
+              "RelativeDocumentMoniker": "Dim Employee.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Employee.dim [Design]",
+              "RelativeToolTip": "Dim Employee.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:27:10.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Supplier.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Supplier.dim",
+              "RelativeDocumentMoniker": "Dim Supplier.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Supplier.dim [Design]",
+              "RelativeToolTip": "Dim Supplier.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:25:12.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:25:05.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WWImportersDW_View.dsv [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\WWImportersDW_View.dsv",
+              "RelativeDocumentMoniker": "WWImportersDW_View.dsv",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\WWImportersDW_View.dsv [Design]",
+              "RelativeToolTip": "WWImportersDW_View.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:21:46.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:21:01.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WWImportersDW_View.cube [Design]",
+              "DocumentMoniker": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\WWImportersDW_View.cube",
+              "RelativeDocumentMoniker": "WWImportersDW_View.cube",
+              "ToolTip": "F:\\13_21133021_NguyenTrongDung_LuuTruMonHoc\\Data-Warehouse\\Do-An-Cuoi-Ky\\WWImportersDW SSAS\\WWImportersDW_View.cube [Design]",
+              "RelativeToolTip": "WWImportersDW_View.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T11:20:51.101Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

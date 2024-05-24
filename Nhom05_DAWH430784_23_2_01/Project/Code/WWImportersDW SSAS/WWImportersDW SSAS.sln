@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "WWImportersDW SSAS", "WWImportersDW SSAS.dwproj", "{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}.Development|Default.ActiveCfg = Development
+		{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}.Development|Default.Build.0 = Development
+		{F63635F8-0265-4D8D-8F83-5B27EEC2FFAA}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A172C5C-2D51-4B6A-A943-36A3F544BE34}
+	EndGlobalSection
+EndGlobal
